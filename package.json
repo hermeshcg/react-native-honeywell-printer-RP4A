@@ -18,8 +18,5 @@
   "bugs": {
     "url": "https://github.com/gabrielsimongianotti/react-native-honeywell-printer-RP4A/issues"
   },
-  "homepage": "https://github.com/gabrielsimongianotti/react-native-honeywell-printer-RP4A#readme",
-  "dependencies": {
-    "react-native-bluetooth-serial": "^1.0.0-rc1"
-  }
+  "homepage": "https://github.com/gabrielsimongianotti/react-native-honeywell-printer-RP4A#readme"
 }
