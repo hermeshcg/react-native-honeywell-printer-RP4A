@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/gabrielsimongianotti/react-native-honeywell-printer-RP4A/issues"
   },
-  "homepage": "https://github.com/gabrielsimongianotti/react-native-honeywell-printer-RP4A#readme"
+  "homepage": "https://github.com/gabrielsimongianotti/react-native-honeywell-printer-RP4A#readme",
+  "dependencies": {
+    "buffer": "^4.6.0"
+  }
 }
