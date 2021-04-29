@@ -4,8 +4,6 @@ react-native link react-native-bluetooth-serial
  
 Online ZPL Viewer http://labelary.com/viewer.html
 
-![Teste](https://imgbox.com/bzaGasJv)
-
 ## Installation
 1. Install package via npm: `npm i react-native-honeywell-printer-rp4a`
 
