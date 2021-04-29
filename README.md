@@ -12,7 +12,7 @@ Online ZPL Viewer http://labelary.com/viewer.html
 
 ## Commands:
  
-  - broad: X axis position relative to page
+  - board: X axis position relative to page
   - height: Y axis position relative to page
   - positionX: Position relative to the X axis
   - positionY: Position relative to the Y axis
@@ -26,7 +26,7 @@ Online ZPL Viewer http://labelary.com/viewer.html
   - generate barcode ZPL code
 
 
-  2. printer.text(broad, heigth, word, size);
+  2. printer.text(board, heigth, word, size);
   - generate text ZPL code
 
 
